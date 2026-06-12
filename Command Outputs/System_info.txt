@@ -1,0 +1,24 @@
+┌──(mark㉿kali)-[~]
+└─$ uname -a
+Linux kali 6.18.12+kali-amd64 #1 SMP PREEMPT_DYNAMIC Kali 6.18.12-1kali1 (2026-02-25) x86_64 GNU/Linux
+                                                                                                          
+┌──(mark㉿kali)-[~]
+└─$ hostname
+kali
+                                                                                                          
+┌──(mark㉿kali)-[~]
+└─$ whoami
+mark
+                                                                                                          
+┌──(mark㉿kali)-[~]
+└─$ date
+
+Friday 12 June 2026 06:14:47 PM IST
+                                                                                                          
+┌──(mark㉿kali)-[~]
+└─$ uptime  
+ 18:14:57 up  4:30,  1 user,  load average: 0.00, 0.07, 0.18
+                                                                                                          
+┌──(mark㉿kali)-[~]
+└─$ pwd
+/home/mark
