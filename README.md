@@ -53,15 +53,15 @@ Linux is one of the most important skills for Cyber Security professionals, Syst
 
 **Desktop Environment**
 
-![Desktop Environment](screenshots/A_desktop.png)
+![Desktop Environment](Screenshots/Kali_Linux_desktop.png)
 
 **Terminal Window**
 
-![Terminal Window](screenshots/A_terminal.png)
+![Terminal Window](Screenshots/Terminal_window.png)
 
 **System Information (`uname -a`)**
 
-![System Information](screenshots/A_sysinfo.png)
+![System Information](Screenshots/System_information_collection.png)
 
 ---
 
@@ -82,23 +82,15 @@ Linux is one of the most important skills for Cyber Security professionals, Syst
 
 **`ls` and `ls -la`**
 
-![ls and ls -la](screenshots/B_ls_la.png)
+![ls and ls -la](Screenshots/Navigation_commands_1.png)
 
 **`cd Documents` and `cd -`**
 
-![cd command](screenshots/B_cd.png)
+![cd command](Screenshots/Navigation_commands_2.png)
 
-**`history`**
+**`history`, `whoami`, `hostname`**
 
-![history command](screenshots/B_history.png)
-
-**`whoami`**
-
-![whoami command](screenshots/B_whoami.png)
-
-**`hostname`**
-
-![hostname command](screenshots/B_hostname.png)
+![history whoami hostname](Screenshots/Navigation_commands_3.png)
 
 ---
 
@@ -134,7 +126,7 @@ tree
 
 **Directory Creation + Tree Output**
 
-![Directory tree](screenshots/C_tree.png)
+![Directory tree](Screenshots/Directory_management.png)
 
 ---
 
@@ -167,7 +159,7 @@ tree
 
 **File Operations (touch, cp, mv, rm)**
 
-![File operations](screenshots/D_file_ops.png)
+![File operations](Screenshots/File_management.png)
 
 ---
 
@@ -191,13 +183,13 @@ pwd
 | Kernel Version      | Linux kali 6.18.12+kali-amd64 #1 SMP PREEMPT_DYNAMIC Kali 6.18.12-1kali1 (2026-02-25) x86_64 GNU/Linux |
 | Hostname            | kali                                                  |
 | Username            | mark                                                  |
-| Current Date & Time | Friday, 12 June 2026, 06:05:53 PM IST               |
-| System Uptime       | up 4 hours 21 minutes, 1 user, load average: 0.02, 0.10, 0.27 |
-| Current Directory   | /home/mark/Cybersecurity_Lab                         |
+| Current Date & Time | Friday, 12 June 2026, 06:29:43 PM IST               |
+| System Uptime       | up 4 hours 45 minutes, 1 user, load average: 0.06, 0.11, 0.12 |
+| Current Directory   | /home/mark                                           |
 
 **System Information Output**
 
-![System info](screenshots/E_sysinfo.png)
+![System info](Screenshots/System_information_collection.png)
 
 ---
 
