@@ -251,3 +251,6 @@ Ethical hackers prefer Linux because:
 - It supports anonymization tools like **Tor** and **Proxychains** natively.
 - The terminal allows fast, precise, and scriptable operations that GUI tools cannot match.
 - Most real-world attack and defense environments (servers, cloud, IoT) run on Linux, making it essential to understand.
+
+---
+Submitted as part of White Band Associates IT Internship Program
